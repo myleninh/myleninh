@@ -1,9 +1,9 @@
-### Hi there 👋
-
-<!--
-**myleninh/myleninh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+# sobre mim
+-ola,eu sou a mylena pedroso
+estou interessado em curso
+  atualmente estou aprendendo SCRATCH e JAVASCRIPT
+estou disponivel para colaborar e ajudar meus colegas
+instagram;milena.pedroso.7946
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
